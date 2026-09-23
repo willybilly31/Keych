@@ -10,7 +10,6 @@ Keych is a small wearable electronics project built around an ESP32-C3. It featu
 * 3.7V LiPo battery
 * Buck converter
 * Battery connector
-* Compact wearable design
 
 ## Hardware
 
